@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627075105139",
+    "project_id": "musicauth-ababc",
+    "storage_bucket": "musicauth-ababc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627075105139:android:84cc1be17c94ae788fc506",
+        "android_client_info": {
+          "package_name": "com.example.music_dld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627075105139-esqi8srpgsal2sqhpgkkvdpnlql8av2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVMtuBqmUx6a5bmsDycSf6au7qA2qnVyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627075105139-esqi8srpgsal2sqhpgkkvdpnlql8av2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
